@@ -21,6 +21,7 @@ SOURCES += \
     mychart.cpp
 
 HEADERS += \
+    func.h \
     mainwindow.h \
     mychart.h
 
